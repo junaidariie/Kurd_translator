@@ -45,11 +45,6 @@ https://huggingface.co/spaces/junaid17/translator
 
 ---
 
-## 📦 How to Use the Model in Python
-*(Section intentionally left empty per request.)*
-
----
-
 ## 🌐 Streamlit Web App
 Features:
 
@@ -91,6 +86,3 @@ project/
 - Production-level UI and performance  
 
 ---
-
-## 📬 Author
-**Junaid** — AI/ML Engineer & Deep Learning Practitioner.
