@@ -1,0 +1,6 @@
+streamlit
+transformers
+peft
+sentencepiece
+torch
+datasets
